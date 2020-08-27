@@ -6,4 +6,4 @@
 
 ### The develop branch is a collaborative branch
 
-### The namedev's branches are personal branches
+### The name's branches are personal branches
