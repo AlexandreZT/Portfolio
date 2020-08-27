@@ -1,9 +1,9 @@
-### Probably the beginning of a great adventure
+# Probably the beginning of a great adventure
 
-# The master branch is the production branch
+### The master branch is the production branch
 
-# The staging branch is the pre-prod branch
+### The staging branch is the pre-prod branch
 
-# The develop branch is a collaborative branch
+### The develop branch is a collaborative branch
 
-# The namedev's branches are personal branches
+### The namedev's branches are personal branches
