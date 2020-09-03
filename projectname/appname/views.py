@@ -11,7 +11,7 @@ def welcome(request):
             <title>WELCOME</title>
         </head>
         <body>
-            <h1>BIENVENU SUR UNKNOWN PROJECT</h1>
+            <h1>WELCOME ON UNKNOWN PROJECT</h1>
         </body>
     </html>
     """)
