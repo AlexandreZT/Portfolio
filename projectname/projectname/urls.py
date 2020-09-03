@@ -21,5 +21,5 @@ from appname import views # every functions -> views.welcome
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('welcome/', views.welcome),
-    path('bienvenu/', views.bienvenu)
+    path('', views.bienvenu) # path('', views.welcome, name='accueil')
 ]
