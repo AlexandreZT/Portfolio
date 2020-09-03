@@ -10,8 +10,8 @@ def welcome(request):
             <meta charset="utf-8">
             <title>WELCOME</title>
         </head>
-        <body>
-            <h1>WELCOME ON UNKNOWN PROJECT</h1>
+        <body style='background-color:grey;'>
+            <h1 style='color:blue;'>WELCOME ON UNKNOWN PROJECT</h1>
         </body>
     </html>
     """)
