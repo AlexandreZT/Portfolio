@@ -124,8 +124,8 @@ print("1", STATIC_URL)
 STATIC_ROOT = os.path.join(BASE_DIR, "static")
 print("2", STATIC_ROOT)
 
-MEDIA_URL = '/media/'
+MEDIA_URL = '/static/media/'
 print("3", MEDIA_URL)
 
-MEDIA_ROOT = os.path.join(STATIC_ROOT, "media")
+MEDIA_ROOT = os.path.join(STATIC_URL+BASE_DIR)
 print("4", MEDIA_ROOT)
