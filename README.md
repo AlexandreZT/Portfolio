@@ -1,7 +1,7 @@
-The master branch is the production branch
+# Building a personal protfolio
 
-The staging branch is the pre-prod branch
+### The master branch is the production branch
 
-The develop branch is a collaborative branch
+### The staging branch is the pre-prod branch
 
-The nomDev's branches are personal branches
+prod at http://alexandrezt.pythonanywhere.com/
