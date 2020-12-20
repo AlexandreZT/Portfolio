@@ -1,4 +1,4 @@
-# Building a personal protfolio
+# Building a personal portfolio
 
 ### The master branch is the production branch
 
