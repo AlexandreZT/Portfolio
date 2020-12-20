@@ -1,9 +1,5 @@
-# Probably the beginning of a great adventure
+# Building a personal protfolio
 
 ### The master branch is the production branch
 
 ### The staging branch is the pre-prod branch
-
-### The develop branch is a collaborative branch
-
-### The name's branches are personal branches
